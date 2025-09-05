@@ -41,7 +41,7 @@ Change my Path → from **banking** to **tech + digital freedom**.
 ---
 
 ## ⚡ Fun Fact
-I HATE ELECTRIC CARS 🔋❌ — give me noise, give me chaos, give me a V10.  
+I HATE ELECTRIC CARS 🔋❌ — give me noise, give me chaos, give me a V8-V10-V12.  
 
 ---
 
@@ -55,6 +55,6 @@ I HATE ELECTRIC CARS 🔋❌ — give me noise, give me chaos, give me a V10.
 ---
 
 ## 📊 GitHub Stats
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leohmontm8-dotcom&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leohmontm8-dotcom&layout=compact&theme=tokyonight)
 
